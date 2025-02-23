@@ -1,3 +1,4 @@
+https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707
 Title: Basic Calculator using HTML, CSS, and JavaScript
 
 Description:
