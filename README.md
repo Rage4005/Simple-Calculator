@@ -11,3 +11,6 @@ Features:
 ✅ User-friendly interface
 
 Feel free to check it out and suggest improvements! 🚀
+
+
+Suggestion accepted!!
