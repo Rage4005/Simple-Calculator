@@ -10,7 +10,11 @@ Features:
 ✅ Clear button to reset calculations
 ✅ User-friendly interface
 
-Feel free to check it out and suggest improvements! 🚀
-
+Feel free to check it out and suggest improvements! 
 
 Suggestion accepted!!
+Devop
+bijaythms-patch-1
+#pickleapple
+
+heyy am Abhinav 
