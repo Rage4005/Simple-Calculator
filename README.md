@@ -10,7 +10,9 @@ Features:
 ✅ Clear button to reset calculations
 ✅ User-friendly interface
 
-Feel free to check it out and suggest improvements! 🚀
+Feel free to check it out and suggest improvements! 
+
+Suggestion accepted!!
 Devop
  Athulpshajil-patch-1
 Athulpshajil-patch-1
@@ -22,9 +24,15 @@ bijaythms-patch-1
 #pickleapple
 
 heyy am Abhinav 
+heyy am Abhinav 
+
 main
+
 Carren here !!
+
 Athulpshajil-patch-1
+
+heyy am Ashna Ann Scaria
 main
 
 RAGE was here 👍⭐
